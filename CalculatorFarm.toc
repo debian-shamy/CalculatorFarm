@@ -1,0 +1,8 @@
+## Interface: 20403
+## Title: CalculatorFarm
+## Notes: Farming Calculator for TBC Consumables
+## Author: Debian (Code optimization by DeepSeek Chat AI)
+## Version: 1.0
+## SavedVariables: CalculatorFarmDB
+
+CalculatorFarm.lua
