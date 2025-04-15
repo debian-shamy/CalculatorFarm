@@ -732,7 +732,7 @@ function SlashCmdList.CALCFARM(msg, editbox)
         print("|cFFFFA500/calcfarm list|r - List all available recipes")  
         print("|cFFFFA500/calcfarm lists|r - Show all saved lists")
         print("|cFFFFA500/calcfarm reset|r - Clear ALL lists")
-        print("Example: |cFFADD8E6/cfarm add my_list FLASKFF 3|r")
+        print("Example: |cFFADD8E6/cfarm add my_list FLASKATKPOWER 5|r")
     end
 end
 
