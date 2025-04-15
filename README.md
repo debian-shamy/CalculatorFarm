@@ -31,7 +31,7 @@ Developed for private servers running World of Warcraft - The Burning Crusade 2.
 
 ## Usage
 
-![CalculatorFarm Commands](print_tbc.png)  
+![CalculatorFarm Commands](print_CalculatorFarm.png)  
 
 ```lua
 /calcfarm or /cfarm  - Main command
